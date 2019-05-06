@@ -26,10 +26,10 @@ function generateContactMe() {
     
         <ul class="myContacts">
           <img src= "http://icons.iconarchive.com/icons/graphicloads/100-flat/256/email-2-icon.png" class= "icon"><li class ="contactInfo">realsamuelhan95@gmail.com</li>
-	        <img src= "https://www.rawshorts.com/freeicons/wp-content/uploads/2017/01/blue_webpict08_1484337066-1.png" class="icon"><li class ="contactInfo">Phone: (202)981-3384</li>
+	        <img src= "https://www.rawshorts.com/freeicons/wp-content/uploads/2017/01/blue_webpict08_1484337066-1.png" class="icon"><li class ="contactInfo">(202)981-3384</li>
           <img src="https://seeklogo.com/images/L/linkedin-icon-logo-7257B647F4-seeklogo.com.png" class="icon"><li class ="contactInfo"><a href="https://www.linkedin.com/in/samuel-han-b9388aa2/">Linkedin Link</a></li>
-          <img src="https://cdn.freebiesupply.com/logos/large/2x/github-icon-logo-svg-vector.svg" class="icon"><li class ="contactInfo">Github: sshan95</li>
-          <img src="https://cdn.worldvectorlogo.com/logos/slack-1.svg" class="icon"><li class ="contactInfo">Slack: S3mul</li>
+          <img src="https://cdn.freebiesupply.com/logos/large/2x/github-icon-logo-svg-vector.svg" class="icon"><li class ="contactInfo">sshan95</li>
+          <img src="https://cdn.worldvectorlogo.com/logos/slack-1.svg" class="icon"><li class ="contactInfo">S3mul</li>
         </ul>
   </section>
   <button class="backToButton">Back to Main</button>
